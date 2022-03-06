@@ -33,8 +33,6 @@ paths:
                     dateOfBirth: "1997-10-31"
                     emailVerified: true
                     signUpDate: "2019-08-24"
-        "404":
-          description: User Not Found
       operationId: get-users-userId
       description: Retrieve the information of the user with the matching user ID.
     patch:
